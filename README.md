@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Zoya a Computer Engineering Student from Santa Clara.
+I'm Zoya a Computer Engineering Student at San Jose State University.
 
 ## 🛠️ Skills and Tools
 - **Languages**: C/C++, Python, etc.
