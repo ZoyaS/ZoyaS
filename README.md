@@ -6,7 +6,7 @@ I'm Zoya a passionate Computer Engineering Student from Santa Clara.
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/zoya-shamak/)
-- [Email](zoyashamak@gmail.com)
+- [Email](mailto:zoyashamak@gmail.com)
 
 <!--
 **ZoyaS/ZoyaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
